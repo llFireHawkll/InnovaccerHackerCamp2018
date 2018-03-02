@@ -24,10 +24,10 @@
 
 # Sample Input:
 
-ln				dob			gn	fn
+ln			dob		gn	fn
 Frometa			24/11/34	F	Vladimir 
-Frometa Garo	24/11/34	F	Vladimir Antonio
-Frometa Garo	24/11/34	F	Vladimir A
+Frometa Garo		24/11/34	F	Vladimir Antonio
+Frometa Garo		24/11/34	F	Vladimir A
 Frometa			24/11/34	F	Vladimir
 Frometa G		24/11/34	F	Vladimir
 Frometa			24/11/34	F	Vladimir A 
@@ -38,7 +38,7 @@ Dutta K			24/11/34	M	Sparsh
 
 # Sample Output:
 
-ln			dob			gn	fn
+ln		dob		gn	fn
 Frometa		24/11/34	F	Vladimir 
 Dutta		24/11/34	M	Sparsh
 

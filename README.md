@@ -64,7 +64,7 @@
 	Frometa			24/11/34		F	Vladimir 
 	Dutta			24/11/34		M	Sparsh
 
-
+![sample_output](https://user-images.githubusercontent.com/16669345/37867975-d1e5733c-2fc5-11e8-8077-b9a934a5f0a2.png)
 
 
 ### IF YOU WISH TO RETRAIN THE MODEL THEN DELETE THE FILE NAMED: 

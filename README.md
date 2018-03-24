@@ -44,7 +44,7 @@
 
 # Sample Input:
 
-	ln				dob		gn	fn
+	ln			dob		        gn	fn
 	Frometa			24/11/34		F	Vladimir 
 	Frometa Garo		24/11/34		F	Vladimir Antonio
 	Frometa Garo		24/11/34		F	Vladimir A

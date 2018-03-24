@@ -54,6 +54,8 @@
 	Frometa G		24/11/34		F	Vladimir A 
 	Dutta			24/11/34		M	Sparsh
 	Dutta K			24/11/34		M	Sparsh
+        
+![sample_input](https://user-images.githubusercontent.com/16669345/37867918-486ac332-2fc5-11e8-96f2-2bb2b6a0fece.png)
 
 
 # Sample Output:
